@@ -1,0 +1,10 @@
+python3 ../../split_overnight_data.py ../../overnightData/restaurants.paraphrases.train.examples restaurants
+python3 ../../split_overnight_data.py ../../overnightData/blocks.paraphrases.train.examples blocks
+python3 ../../split_overnight_data.py ../../overnightData/calendar.paraphrases.train.examples calendar
+# python3 ../../split_overnight_data.py ../../overnightData/geo880.paraphrases.train.examples geo880
+python3 ../../split_overnight_data.py ../../overnightData/housing.paraphrases.train.examples housing
+# python3 ../../split_overnight_data.py ../../overnightData/regex.paraphrases.train.examples regex
+python3 ../../split_overnight_data.py ../../overnightData/basketball.paraphrases.train.examples basketball
+# python3 ../../split_overnight_data.py ../../overnightData/recipes.paraphrases.train.examples recipes
+python3 ../../split_overnight_data.py ../../overnightData/socialnetwork.paraphrases.train.examples socialnetwork
+python3 ../../split_overnight_data.py ../../overnightData/publications.paraphrases.train.examples publications

@@ -1,0 +1,3 @@
+cp cannonical/all_domains/10_examples/test_only/para_only/$1/$1.ipynb cannonical/all_domains/template/test_only/para_only/$1/.
+cp cannonical/all_domains/10_examples/test_only/para_only/$1_no_glove/$1.ipynb cannonical/all_domains/template/test_only/para_only/$1_no_glove/.
+cp cannonical/all_domains/10_examples/test_only/para_only/$1/$1.ipynb cannonical/all_domains/template/test_only/para_only/$1_bert/.

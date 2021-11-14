@@ -1,0 +1,9 @@
+#["basketball","blocks","calendar","housing","publications","restaurants", "social", "recipes"]
+python3 auto_preprocess_test.py basketball
+python3 auto_preprocess_test.py blocks
+python3 auto_preprocess_test.py calendar
+python3 auto_preprocess_test.py housing
+python3 auto_preprocess_test.py publications
+python3 auto_preprocess_test.py restaurants
+python3 auto_preprocess_test.py social
+python3 auto_preprocess_test.py recipes

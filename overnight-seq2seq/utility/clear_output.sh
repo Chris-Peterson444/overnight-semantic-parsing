@@ -1,0 +1,2 @@
+jupyter nbconvert --clear-output --inplace ./cannonical/all_domains/template/test_only/para_only/$1/$1.ipynb
+jupyter nbconvert --clear-output --inplace ./cannonical/all_domains/template/test_only/para_only/$1_no_glove/$1.ipynb
