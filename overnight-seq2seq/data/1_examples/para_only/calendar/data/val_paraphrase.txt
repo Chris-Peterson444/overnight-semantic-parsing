@@ -1,0 +1,134 @@
+what meeting has a date after jan 2
+show me where the weekly standup and annual review is happening
+person attending three hour meeting
+what meeting has a date of jan 2 at greenberg cafe
+which meetings will be longer than weekly standup
+show me all meetings on january 2nd at the greenberg cafe
+shortest meeting
+meetings held in the same place as the weekly standup meeting
+what meeting did alice attend at the greenberg cafe
+what meeting has a location at greeberg cafe on jan 2
+show me the meetings which have lasted the longest
+show me all meetings that end by 10am
+what meetings have the same duration as the weekly stand up meeting
+meeting share attendee with weekly standup
+weekly standup date
+what meetings are scheduled to run for 3 hours
+show me all meetings at least one hour or three hours long
+what three hour meeting is on jan 2
+what location does not hold the weekly standup meeting
+meeting that starts at 10am and ends at 1pm
+how many attendees are there for this meeting
+what is the meeting that starts at 10 am in greenberg cafe
+meetings that end at or after 10 am or at or after 3pm
+what meeting is at the same location as weekly standup
+meeting which has shortest start time
+what meeting is on jan 2 or 3rd
+meetings that end earlier than the weekly standup meeting
+show me all meetings ending at 10 am or 3 pm
+show me all of the people who did not attend the weekly standup meeting
+meetings that are the same length as or longer than the weekly standup meeting
+show me all meetings which are exactly one hour or exactly three hours long
+what is the location of the important meeting
+which meetings end later in the day than weekly standup
+show me all meetings which end at the same time as the weekly standup ends
+what location are the fewest meetings held
+show me all meetings happening after january 2nd or january 3rd
+meetings that end later than 10am or later than 3pm
+meetings that start before the weekly standup meeting ends
+show me all meetings with two attendees
+which meetings are important
+who is attending weekly standup
+show me meetings ending at 10am in greenberg cafe
+show me all important meetings that end at 10am
+location is same as location of meeting ends at 10 am
+meetings attended by alice or bob
+show me meetings for jan 2
+show me the meeting which has happened at the most locations
+show me meeting locations with alice
+show me all three hour meetings that are important
+meeting with least attendees
+show me all meetings attended by alice which are three hours long
+what person is attending the meeting that starts at 10am
+what three hour meeting starts at 10am
+when is weekly standup or annual review
+who is attending the same meeting as alice
+show me important meetings
+meeting ends no later than 10am or 3pm
+show me meetings with the most locations
+meeting that has maximum 2 attendees
+person attending at least two meetings
+what important meeting has a length of three hours
+show me all meetings that start at 10am and last three hours
+where is my jan 2 meeting
+meeting starts at 10am or 3pm at the earliest
+what time does the weekly standup meeting end
+jan 2nd meeting with alice as attendee
+who has attended the least meetings
+show me all meetings that start no earlier than 10am
+what is the location of the meeting that will have two or more attendees
+show me all meetings on january 2nd happening at the greenberg cafe
+meeting held in the fewest number of locations
+meeting in greenberg cafe or central office
+meeting featuring alice as attendee starting at 10am
+show me any meetings scheduled to be longer than one hour or three hours
+show me any meetings that alice or bob have attended
+what meeting is as long or longer than weekly standup
+meeting with largest number of attendees
+what meeting has the same date as weekly startup
+meeting later than january 2nd or 3rd
+meeting that ends at start time of weekly standup
+show me all meetings that end at 10am on jan 2
+what meeting did alice not attend
+what meeting is not located at greenberg cafe
+show me all meetings beginning later than the weekly standup
+what meeting does not start at 10am
+important meetings
+show all meetings that end at 10am on jan 2
+meetings that start later than or at the same time as the weekly standup meeting
+show me all meetings ending at 10 am which are scheduled to be three hours long
+meeting starts before weekly standup
+what meeting has a date no later than jan 2
+which meeting is the shortest
+where is the threehour long meeting
+show me meetings starting later than 10am
+show me all meetings the same length of the weekly standup
+show me meeting which end before weekly standup
+meetings attended by alice that start at 10am
+what meetings end at 10am or 3pm
+show me all locations that are used for more than two meetings
+show me all meetings alice has attended which have ended at 10 am
+show me all meetings less than three hours long
+show the meeting on jan 2
+show me all 3 hour meetings with alice
+show me all meetings starting at the same time as the weekly standup
+show me all meetings the same length or longer than the weekly standup
+show me the locations of all meetings three hours in length
+who are the attendees for fo the meetings in greenberg cafe
+show me all meetings with two or more people attending
+what meeting starts earlier than the end time of weekly standup
+meetings that end the earliest
+show me all meetings alice attended on january 2nd
+meetings on january 2
+which people will attend two or more meetings
+show meetings that end at 10am or 3pm
+show me all meetings happening on january 2nd or january 3rd
+show me all meetings beginning on or after january 2nd
+meeting whose location is same as the  location of weekly standup
+show me the meetings scheduled earliest in the month
+who is not an attendee of weekly standup
+what meeting is on jan 2 or earlier
+what location is the meeting that starts at 10am
+locations of the weekly standup meeting or annual review meeting
+meetings attended by alice that are three hours long
+what are the areas where two or more meetings take place
+show me all meetings that fall before or after jan 2
+show me all meetings at the same location as the weekly standup
+show me meetings that last three hours
+show me meeting locations that start at 10am
+show me locations with the fewest meetings
+how many people attended meetings
+show me meetings with alice or bob
+show me all meetings happening on days other than january 2nd
+show me all people who have attended at least two meetings
+meetings that end at or after the weekly standup meeting ends
